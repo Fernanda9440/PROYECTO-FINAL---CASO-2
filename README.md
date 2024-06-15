@@ -1,5 +1,12 @@
 # PROYECTO-FINAL---CASO-2
+
+![image](https://github.com/Fernanda9440/PROYECTO-FINAL---CASO-2/assets/172737730/64df3e75-3563-4d6d-91a2-670de0f4eac1)
+
+
 PROYECTO FINAL ABPC
+
+![image](https://github.com/Fernanda9440/PROYECTO-FINAL---CASO-2/assets/172737730/8410c9d0-3466-410d-b85e-8eb604c3356e)
+
 El procesamiento y análisis de grandes volúmenes de datos es una tarea
 compleja y multifacética que abarca varias disciplinas esenciales para extraer información valiosa de datos en bruto. En este contexto, el uso de RStudio, una herramienta poderosa y flexible para análisis de datos y programación estadística,resulta fundamental. RStudio proporciona un entorno integrado que facilita el desarrollo de cada uno de los componentes clave en el flujo de trabajo de datos.
 La limpieza y transformación de datos constituyen el primer paso crítico en este proceso. A través de RStudio, los datos se preparan para su análisis mediante
@@ -13,7 +20,7 @@ científicos, procesos, algoritmos y sistemas que extraen conocimiento de los da
 Los científicos de datos pueden desarrollar y validar modelos predictivos, utilizar
 algoritmos de machine learning y aplicar técnicas de minería de datos para descubrir
 
-A. LIMPIEZA Y TRANSFORMACIÓN DE DATOS:
+            A. LIMPIEZA Y TRANSFORMACIÓN DE DATOS:
 1. Limpieza:
 Primero como descripción general nuestra gestión de datos se basó
 en la adquisición, organización, almacenamiento y manipulación de la base
@@ -40,7 +47,7 @@ faltantes.
 Para inspeccionar la observación número 64, nos muestra en el marco
 de datos.
 
-B. ANALISIS DE DATOS
+          B. ANALISIS DE DATOS
 La base de datps utilizada esta denominada como
 “data(proyecto_final)”.
 Con esta función podemos verificar la impresión de nuestra tabla para
@@ -92,7 +99,7 @@ siguientes comandos, por ejemplo:
 • var(wage)
 • sd(wage)
 
-C. VISUALIZACIÓN DE DATOS
+          C. VISUALIZACIÓN DE DATOS
 Con la función “hist (columna x, freq = FALSE)” se puede analizar el histograma de los datos en validación para determinar la toma de decisiones de forma efectiva
 
 ![image](https://github.com/Fernanda9440/PROYECTO-FINAL---CASO-2/assets/172737730/e8d8f57b-a412-4ac7-8b81-4afb84c18c75)
@@ -120,7 +127,7 @@ campos en análisis.
 ![image](https://github.com/Fernanda9440/PROYECTO-FINAL---CASO-2/assets/172737730/594b5d96-9e4a-429f-844b-21b0165e3c18)
 
 
-D. CIENCIA DE DATOS
+          D. CIENCIA DE DATOS
 1. REGRECIÓN LINEAL
 
    ![image](https://github.com/Fernanda9440/PROYECTO-FINAL---CASO-2/assets/172737730/f547f584-864b-40d6-adf6-cefe596b5b01)
@@ -321,7 +328,7 @@ write.csv(summary_stats, 'summary_stats.csv', row.names = FALSE)
 
 
 
-CONCLUSIONES
+          CONCLUSIONES
 El uso de RStudio en el procesamiento y análisis de datos abarca desde la
 limpieza y transformación de datos hasta la visualización, ciencia e ingeniería de
 datos. Esta herramienta integral proporciona un entorno robusto y flexible que
@@ -338,7 +345,7 @@ comunicar los hallazgos de manera efectiva. RStudio ofrece una variedad de
 herramientas que facilitan el análisis estadístico y la creación de visualizaciones
 claras y comprensibles.
 
-RECOMENDACIONES
+          RECOMENDACIONES
 Es crucial que las organizaciones implementen procedimientos
 automatizados en RStudio para la limpieza de datos, lo que no solo ahorra tiempo
 sino que también reduce los errores humanos y mejora la consistencia y precisión
